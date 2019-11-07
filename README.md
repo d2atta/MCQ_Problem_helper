@@ -13,7 +13,7 @@ After you finish givingn answers to the questions.It will ask for the answers of
 Then it will give you the statastics.
 
 
-##Enjoy :facepunch:
+## Enjoy :facepunch:
 
 
 **Instruction to run the program in Linux**
@@ -25,5 +25,5 @@ Then it will give you the statastics.
 2.This will create a file helper.
 
 
-3)Now just type ./helper to execute the file.:smiley:
+3.Now just type ./helper to execute the file.:smiley:
 
